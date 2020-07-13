@@ -6,4 +6,4 @@
 
 ## 📫 Reach me
 
-You can reach me at [davidbanu.com](https://davidbanu.github.io) (see the contact section), directly on  [Email](mailto:banudavidcip@gmail.com?subject="Hello David"), or on [Instagram](https://www.instagram.com/davidbanu_/). 
+You can reach me at [davidbanu.com](https://davidbanu.github.io) (see the contact section), directly on  [Email](mailto:banudavidcip@gmail.com?subject=Hello), or on [Instagram](https://www.instagram.com/davidbanu_/). 
