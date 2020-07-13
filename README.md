@@ -1,7 +1,7 @@
 # Hi there, I'm David 👋
 
 
-🔭 I'm the founder of [Joinstack](https://joinstack.github.io), a digital startup that creates mobile apps for your daily needs. I'm also the founder of [Themestack](https://themestack.github.io), where I develop UI Kits, Templates and Dashboards in Bootstrap, React and Angular.
+🚀 I'm the founder of [Joinstack](https://joinstack.github.io), a digital startup that creates mobile apps for your daily needs. I'm also the founder of [Themestack](https://themestack.github.io), where I develop UI Kits, Templates and Dashboards in Bootstrap, React and Angular.
 
 
 ## 📫 Reach me
