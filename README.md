@@ -1,7 +1,7 @@
 # Hi there, I'm David 👋
 
 
-🔭 I’m currently the owner of [Joinstack](https://joinstack.github.io), a digital startup that cares to create mobile apps for your daily needs. I'm also developing [Themestack](https://themestack.github.io), a place for UI Kits, Templates and Dashboards.
+🔭 I am the owner of [Joinstack](https://joinstack.github.io), a digital startup that cares to create mobile apps for your daily needs. I'm also developing [Themestack](https://themestack.github.io), a place for UI Kits, Templates and Dashboards.
 
 
 ## 📫 Reach me
