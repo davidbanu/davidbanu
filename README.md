@@ -13,6 +13,10 @@
 [<img align="left" alt="davidbanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="davidbanu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+## Profile stats
+
+![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbanu&count_private=true)
+
 
 [website]: https://davidbanu.github.io
 [medium]: https://medium.com/@davidbanu
