@@ -6,6 +6,15 @@
 🛸 I'm also the founder of [UiRoute](https://uiroute.github.io), a marketplace with UI Kits, Templates and Dashboards for developers.
 
 
-## 📫 Reach me
+## 📫 Connect with me
 
-You can reach me at [davidbanu.com](https://davidbanu.github.io) (see the contact section), directly on  [Email](mailto:banudavidcip@gmail.com?subject=Hello), or on [Instagram](https://www.instagram.com/davidbanu_/). 
+[<img align="left" alt="davidbanu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="davidbanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="davidbanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="davidbanu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[website]: https://davidbanu.github.io
+[medium]: https://medium.com/@davidbanu
+[instagram]: https://instagram.com/davidbanu_
+[linkedin]: https://linkedin.com/in/davidbanu
