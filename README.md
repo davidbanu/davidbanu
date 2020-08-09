@@ -17,7 +17,7 @@
 
 ## Profile stats
 
-![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbanu&count_private=true)
+![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbanu&theme=blue-green&count_private=true)
 
 
 [website]: https://davidbanu.github.io
