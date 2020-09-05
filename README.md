@@ -20,7 +20,7 @@
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbanu&theme=blue-green&count_private=true)
 
 
-[website]: https://davidbanu.github.io
+[website]: https://davidbanu.web.app
 [medium]: https://medium.com/@davidbanu
 [instagram]: https://instagram.com/davidbanu_
 [linkedin]: https://linkedin.com/in/davidbanu
