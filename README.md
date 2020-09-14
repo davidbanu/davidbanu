@@ -1,4 +1,4 @@
-<h3 style="text-align: center">Hi there, I'm David 👋 </h3>
+<h2 style="text-align: center">Hi there, I'm David 👋 </h2>
 
 
 🚀 I'm the founder of [Joinstack], a digital startup focused on creating mobile apps for your daily needs. For 2 years we focused on consultancy projects, but from the end of June we are 100% concentrated on in-house projects. Until the end of the year, we are preparing to launch 2 productivity apps that will make your life a little bit better. 
