@@ -17,7 +17,7 @@
 
 ## Profile stats
 
-![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbanu&theme=vue&count_private=true)
+![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbanu&theme=dark&count_private=true)
 
 [Joinstack]: https://joinstack.github.io 
 [UiRoute]: https://uiroute.com
