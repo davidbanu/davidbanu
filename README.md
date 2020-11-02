@@ -1,7 +1,7 @@
 # Hi there, I'm David 👋 
 
 
-🚀 I'm the founder of [Joinstack], a digital startup focused on creating mobile apps for your daily needs. For 2 years we focused on consultancy projects, but from the end of June we are 100% concentrated on in-house projects. Until the end of the year, we are preparing to launch 2 productivity apps that will make your life a little bit better. 
+🚀 Full Stack Developer, focused on developing great solutions with clear, easy to use code. 
 </br>
 🛸 I'm also the founder of [UiRoute], a marketplace with UI Kits, Templates and Dashboards for developers and designers. Built by an awesome team, created with passion and attention to details for a fast deployment of your project.
 
