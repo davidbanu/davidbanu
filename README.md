@@ -1,7 +1,7 @@
 # Hi there, I'm David 👋 
 
 
-🚀 Full Stack Developer, focused on developing great solutions with clear, easy to use code. 
+🚀 Full Stack Developer, focused on developing great solutions with clear, easy to understand code. 
 </br>
 🛸 I'm also the founder of [UiRoute], a marketplace with UI Kits, Templates and Dashboards for developers and designers. Built by an awesome team, created with passion and attention to details for a fast deployment of your project.
 
