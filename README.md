@@ -1,7 +1,7 @@
 # Hi there, I'm David 👋 
 
 
-🚀  A software engineer by profession, an entrepreneur by choice and a writer at heart.
+🚀 Software Engineer. Entrepreneur. Tool maker. 
 </br>
 🛸 I'm the founder of [UiRoute], a marketplace with UI Kits, Templates and Dashboards for developers and designers. Built by an awesome team, created with passion and attention to details for a fast deployment of your project.
 
