@@ -25,7 +25,7 @@
 
 [Joinstack]: https://joinstack.tech
 [UiRoute]: https://uiroute.com
-[website]: https://davidbanu.web.app
+[website]: https://davidbanu.com
 [medium]: https://medium.com/@davidbanu
 [instagram]: https://instagram.com/davidbanu_
 [linkedin]: https://linkedin.com/in/davidbanu
