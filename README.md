@@ -6,6 +6,7 @@
 </br>
 🛸 I'm the founder of [UiRoute], a marketplace with UI Kits, Templates and Dashboards for developers and designers. Built by an awesome team, created with passion and attention to details for a fast deployment of your project.
 </br>
+</br>
 🔥 I'm also the founder of [Joinstack], a digital startup focused on creating mobile and web apps for your daily needs. I've started Joinstack in 2018
    and since then we've made over 50 websites and web apps and developed 10 mobile apps. 
    Today I'm confident that we are one of the best software consultancy studios in Eastern Europe. 
