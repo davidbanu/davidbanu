@@ -20,10 +20,6 @@
 
 <br/>
 
-## Profile stats
-
-![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbanu&count_private=true&theme=omni)
-
 [Joinstack]: https://joinstack.tech
 [UiRoute]: https://uiroute.com
 [website]: https://davidbanu.com
