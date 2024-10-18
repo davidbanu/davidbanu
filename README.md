@@ -6,7 +6,7 @@
 </br>
 🔥 I'm the founder of [Joinstack], a digital startup focused on creating mobile and web apps for your daily needs. I've started Joinstack in 2018
    and since then we've made over 50 websites and web apps and developed 10 mobile apps. 
-   Today I'm confident that we are one of the best software consultancy studios in Eastern Europe. 
+   
 </br>
 </br>
 
