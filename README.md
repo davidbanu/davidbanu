@@ -9,8 +9,6 @@
    Today I'm confident that we are one of the best software consultancy studios in Eastern Europe. 
 </br>
 </br>
-// 🛸 I'm also the founder of [UiRoute], a marketplace with UI Kits, Templates and Dashboards for developers and designers. Built by an awesome team, our products are created with passion and attention to details. With our 
-// products, you will deploy your website or app in no time.
 
 ## 📫 Connect with me
 
