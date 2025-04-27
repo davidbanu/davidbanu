@@ -30,6 +30,11 @@
 - **Cloud**: AWS, Firebase, Google Cloud
 
 ---
+### 🏆 "Learning never exhausts the mind." - Leonardo da Vinci
+
+Feel free to explore my repositories and reach out for collaborations. Let's create something amazing together!
+
+---
 
 ## 📫 Connect with me
 
@@ -39,12 +44,6 @@
 [<img align="left" alt="davidbanu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-
----
-### 🏆 "Learning never exhausts the mind." - Leonardo da Vinci
-
-Feel free to explore my repositories and reach out for collaborations. Let's create something amazing together!
-
 
 [Joinstack]: https://joinstack.tech
 [UiRoute]: https://uiroute.com
