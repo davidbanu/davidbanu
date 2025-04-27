@@ -31,11 +31,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![David Banu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidbanu&show_icons=true&theme=radical)
-
-
 ## 📫 Connect with me
 
 [<img align="left" alt="davidbanu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
