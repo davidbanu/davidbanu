@@ -5,10 +5,40 @@
 </br>
 </br>
 🔥 I'm the founder of [Joinstack], a digital startup focused on creating mobile and web apps for your daily needs. I've started Joinstack in 2018
-   and since then we've made over 50 websites and web apps and developed 10 mobile apps. 
+   and since then we've made over 117 websites and web apps and developed 12 mobile apps. 
    
 </br>
 </br>
+
+# Hi there, I'm David Banu 👋
+
+Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and lifelong learner. My goal is to build impactful software and contribute to the open-source community.
+
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer with experience in full-stack development.
+- 🌱 Currently exploring **AI/ML** and **cloud computing**.
+- 🎯 Focused on writing clean, efficient, and scalable code.
+- 🌐 I enjoy working on projects that make a difference.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, JavaScript, TypeScript, SQL
+- **Frameworks**: React, Node.js, Django
+- **Databases**: PostgreSQL, MongoDB, SQLite
+- **Tools**: Docker, Kubernetes, Git, CI/CD pipelines
+- **Cloud**: AWS, Firebase, Google Cloud
+
+---
+
+## 📈 GitHub Stats
+
+![David Banu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidbanu&show_icons=true&theme=radical)
+
 
 ## 📫 Connect with me
 
@@ -18,6 +48,12 @@
 [<img align="left" alt="davidbanu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+
+---
+### 🏆 "Learning never exhausts the mind." - Leonardo da Vinci
+
+Feel free to explore my repositories and reach out for collaborations. Let's create something amazing together!
+
 
 [Joinstack]: https://joinstack.tech
 [UiRoute]: https://uiroute.com
