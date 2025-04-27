@@ -10,10 +10,6 @@
 </br>
 </br>
 
-# Hi there, I'm David Banu 👋
-
-Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and lifelong learner. My goal is to build impactful software and contribute to the open-source community.
-
 ---
 
 ## 🚀 About Me
