@@ -24,9 +24,9 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, JavaScript, TypeScript, SQL
-- **Frameworks**: React, Node.js, Django
+- **Frameworks & Libraries**: React, Node.js, Django
 - **Databases**: PostgreSQL, MongoDB, SQLite
-- **Tools**: Docker, Kubernetes, Git, CI/CD pipelines
+- **Tools & DevOps**: Docker, Kubernetes, Git, CI/CD pipelines
 - **Cloud**: AWS, Firebase, Google Cloud
 
 ---
