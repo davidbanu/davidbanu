@@ -27,7 +27,7 @@
 - **Frameworks & Libraries**: React, Node.js, Django
 - **Databases**: PostgreSQL, MongoDB, SQLite
 - **Tools & DevOps**: Docker, Kubernetes, Git, CI/CD pipelines
-- **Cloud**: AWS, Firebase, Google Cloud
+- **Cloud**: AWS, Firebase, Google Cloud, Cloudflare 
 
 ---
 ### 🏆 "Learning never exhausts the mind." - Leonardo da Vinci
