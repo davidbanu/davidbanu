@@ -44,6 +44,8 @@ Feel free to explore my repositories and reach out for collaborations. Let's cre
 [<img align="left" alt="davidbanu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+<br/>
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davidbanu&theme=dark)](https://git.io/streak-stats)
 
