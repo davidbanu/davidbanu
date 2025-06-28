@@ -45,6 +45,8 @@ Feel free to explore my repositories and reach out for collaborations. Let's cre
 
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=davidbanu&theme=dark)](https://git.io/streak-stats)
+
 [Joinstack]: https://joinstack.tech
 [UiRoute]: https://uiroute.com
 [website]: https://davidbanu.com
