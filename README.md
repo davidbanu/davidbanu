@@ -1,11 +1,21 @@
 # Hi there, I'm David 👋 
 
 
-🚀 Software Engineer. Entrepreneur. Tool maker. 
+🚀 Building scalable digital products and architecting secure management ecosystems. 
 </br>
 </br>
-🔥 I'm the founder of [Joinstack], a digital startup focused on creating mobile and web apps for your daily needs. I've started Joinstack in 2018
-   and since then we've made over 117 websites and web apps and developed 12 mobile apps. 
+### 🚀 Joinstack | Digital Startup Founder (est. 2018)
+High-performance development for web and mobile.
+* 🌐 **117+** Websites & Web Apps delivered to date.
+* 📱 **19** Native Mobile Apps built from the ground up.
+* [joinstack.tech](https://joinstack.tech)
+
+### 🛡️ CybRoute | Offensive Security & Security Management
+Transforming reactive security into proactive defense through specialized software.
+* 🖥️ **Internal Admin Apps:** Architecting custom management systems for threat tracking and vulnerability data.
+* ⚡ **Offensive Ops:** Elite penetration testing and defense-in-depth for cloud infrastructure (AWS, Azure, GCP).
+* 🔍 **Applied Security:** Focusing on real-world application hardening and internal tooling.
+* [cybroute.com](https://cybroute.com). 
    
 </br>
 </br>
