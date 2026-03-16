@@ -1,7 +1,7 @@
 # Hi there, I'm David 👋 
 
 
-🚀 Building scalable digital products and architecting secure management ecosystems. 
+Building scalable digital products and architecting secure management ecosystems. 
 </br>
 </br>
 ### 🚀 Joinstack | Digital Startup Founder (est. 2018)
